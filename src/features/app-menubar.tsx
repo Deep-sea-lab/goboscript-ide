@@ -148,7 +148,7 @@ export function AppMenubar() {
                 <MenubarContent>
                     <MenubarItem asChild>
                         <a
-                            href="https://aspizu.github.io/goboscript/getting-started/basic-examples/"
+                            href="https://aspiz.uk/goboscript/docs/getting-started/basic-examples"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -168,7 +168,7 @@ export function AppMenubar() {
                     </MenubarItem>
                     <MenubarItem asChild>
                         <a
-                            href="https://discord.gg/W9ZWy6ZMA3"
+                            href="https://discord.gg/mKQqsJ6UtK"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
